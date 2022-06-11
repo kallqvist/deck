@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/the-deck/static/css/main.40731441.css",
-    "main.js": "/the-deck/static/js/main.4ce146dd.js",
+    "main.js": "/the-deck/static/js/main.74310b02.js",
     "static/js/27.e90dcb28.chunk.js": "/the-deck/static/js/27.e90dcb28.chunk.js",
     "index.html": "/the-deck/index.html"
   },
   "entrypoints": [
     "static/css/main.40731441.css",
-    "static/js/main.4ce146dd.js"
+    "static/js/main.74310b02.js"
   ]
 }
