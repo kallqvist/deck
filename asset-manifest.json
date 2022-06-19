@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/the-deck/static/css/main.ee798770.css",
-    "main.js": "/the-deck/static/js/main.696ba46f.js",
-    "static/js/27.e90dcb28.chunk.js": "/the-deck/static/js/27.e90dcb28.chunk.js",
-    "index.html": "/the-deck/index.html"
+    "main.css": "/deck/static/css/main.50f380cc.css",
+    "main.js": "/deck/static/js/main.b75968c0.js",
+    "static/js/27.e90dcb28.chunk.js": "/deck/static/js/27.e90dcb28.chunk.js",
+    "index.html": "/deck/index.html"
   },
   "entrypoints": [
-    "static/css/main.ee798770.css",
-    "static/js/main.696ba46f.js"
+    "static/css/main.50f380cc.css",
+    "static/js/main.b75968c0.js"
   ]
 }
