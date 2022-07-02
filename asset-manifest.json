@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/deck/static/css/main.ca52f4ee.css",
-    "main.js": "/deck/static/js/main.ddb7967e.js",
+    "main.css": "/deck/static/css/main.1f8dfcfd.css",
+    "main.js": "/deck/static/js/main.79801a64.js",
     "static/js/27.e90dcb28.chunk.js": "/deck/static/js/27.e90dcb28.chunk.js",
     "index.html": "/deck/index.html"
   },
   "entrypoints": [
-    "static/css/main.ca52f4ee.css",
-    "static/js/main.ddb7967e.js"
+    "static/css/main.1f8dfcfd.css",
+    "static/js/main.79801a64.js"
   ]
 }
